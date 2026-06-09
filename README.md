@@ -90,7 +90,7 @@ The dataset contains the following fields:
 
 
 # SQL Concepts Used
-GROUP BY
+- 'GROUP BY'
 ORDER BY
 COUNT()
 MAX()
