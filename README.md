@@ -5,14 +5,14 @@ This project explores and analyzes a Netflix dataset using SQL. The goal is to s
 including movies, TV shows, ratings, genres, countries, directors, actors, and content trends.
 
 The project demonstrates SQL skills such as:
-• Data filtering
-• Aggregations
-• Window functions
-• Common Table Expressions (CTEs)
-• String manipulation
-• Date handling
-• Ranking functions
-• Data analysis and reporting
+- Data filtering
+- Aggregations
+- Window functions
+- Common Table Expressions (CTEs)
+- String manipulation
+- Date handling
+- Ranking functions
+- Data analysis and reporting
 
 # Dataset Structure
 
@@ -21,19 +21,19 @@ Dataset Structure
 
 The dataset contains the following fields:
 
-• Column              
-• show_id                                              
-• type	                         
-• title	                         
-• director          
-• casts	   
-• country                         
-• date_added       
-• release_year	                  
-• rating	                         
-• duration	                   
-• listed_in           
-• description	                 
+- Column              
+- show_id                                              
+- type	                         
+- title	                         
+- director          
+- casts	   
+- country                         
+- date_added       
+- release_year	                  
+- rating	                         
+- duration	                   
+- listed_in           
+- description	                 
 
 # Business Problems Solved
 
@@ -90,7 +90,7 @@ The dataset contains the following fields:
 
 
 # SQL Concepts Used
-- 'GROUP BY'
+- GROUP BY
 - ORDER BY
 - COUNT()
 - MAX()
