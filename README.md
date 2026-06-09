@@ -91,20 +91,19 @@ The dataset contains the following fields:
 
 # SQL Concepts Used
 - 'GROUP BY'
-ORDER BY
-COUNT()
-MAX()
-RANK() OVER()
-CASE 
-WHEN
-STRING_TO_ARRAY()
-UNNEST()
-SPLIT_PART()
-ILIKE
-TO_DATE()
-EXTRACT()
-Subqueries
-Window Functions
+- ORDER BY
+- COUNT()
+- MAX()
+- RANK() OVER()
+- CASE WHEN
+- STRING_TO_ARRAY()
+- UNNEST()
+- SPLIT_PART()
+- ILIKE
+- TO_DATE()
+- EXTRACT()
+- Subqueries
+- Window Functions
 
 # Technologies Used
 PostgreSQL
