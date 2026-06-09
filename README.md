@@ -21,65 +21,65 @@ Dataset Structure
 
 The dataset contains the following fields:
 
-Column	                      Description
-show_id                     	Unique content identifier
-type	                        Movie or TV Show
-title	                        Content title
-director	                    Director name
-casts	                        Cast members
-country                     	Country of production
-date_added	                  Date added to Netflix
-release_year	                Release year
-rating	                      Content rating
-duration	                    Movie duration or TV seasons
-listed_in	                    Genre/category
-description	                  Content description
+• Column	                      
+• show_id                     	
+• type	                        
+• title	                        
+• director
+• casts	                       
+• country                     
+• date_added
+• release_year	               
+• rating	                     
+• duration	                   
+• listed_in
+• description	                 
 
 # Business Problems Solved
 
-1. Count Movies vs TV Shows
+1. Count Movies vs TV Shows:
 Find the total number of Movies and TV Shows available on Netflix.
 
-2. Most Common Rating
+2. Most Common Rating:
 Determine the most frequently used rating for Movies and TV Shows.
 
-3. Movies Released in 2020
+3. Movies Released in 2020:
 Retrieve all movies released in the year 2020.
 
-4. Top 5 Countries by Content
+4. Top 5 Countries by Content:
 Identify the countries producing the highest amount of Netflix content.
 
-5. Longest Movie
+5. Longest Movie:
 Find the movie with the maximum duration.
 
-6. Content Added in the Last 5 Years
+6. Content Added in the Last 5 Years:
 Analyze recently added Netflix content.
 
-7. Content by Rajiv Chilaka
+7. Content by 'Rajiv Chilaka':
 Find all Movies and TV Shows directed by Rajiv Chilaka.
 
-8. TV Shows with More Than 5 Seasons
+8. TV Shows with More Than 5 Seasons:
 Identify long-running TV series.
 
-9. Content Count by Genre
+9. Content Count by Genre:
 Calculate the number of content items in each genre.
 
-10. Netflix India Content Analysis
+10. Netflix India Content Analysis:
 Find years with the highest percentage of content releases from India.
 
-11. Documentary Movies
+11. Documentary Movies:
 Retrieve all documentary content available on Netflix.
 
-12. Content Without a Director
+12. Content Without a Director:
 Identify records where director information is missing.
 
-13. Salman Khan Content Analysis
+13. Salman Khan Content Analysis:
 Find content featuring Salman Khan released in the last 10 years.
 
-14. Top Actors in Indian Productions
+14. Top Actors in Indian Productions:
 Identify actors appearing most frequently in Indian Netflix productions.
 
-15. Content Classification (Good vs Bad)
+15. Content Classification (Good vs Bad):
 Categorize content based on keywords such as:
 Dataset Structure
 
