@@ -21,18 +21,18 @@ Dataset Structure
 
 The dataset contains the following fields:
 
-• Column	                      
-• show_id                     	
-• type	                        
-• title	                        
-• director
-• casts	                       
-• country                     
-• date_added
-• release_year	               
-• rating	                     
+• Column
+• show_id                      	
+• type	                         
+• title	                         
+• director          
+• casts	   
+• country                         
+• date_added       
+• release_year	                  
+• rating	                         
 • duration	                   
-• listed_in
+• listed_in           
 • description	                 
 
 # Business Problems Solved
