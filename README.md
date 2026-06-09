@@ -22,7 +22,7 @@ Dataset Structure
 The dataset contains the following fields:
 
 • Column              
-• show_id                                                     	
+• show_id                                              
 • type	                         
 • title	                         
 • director          
