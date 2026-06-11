@@ -2,7 +2,7 @@
 ![Project logo](logo.jfif)
 
 
-###Overview
+## Overview
 This project explores and analyzes a Netflix dataset using SQL. The goal is to solve real-world business questions related to Netflix content, 
 including movies, TV shows, ratings, genres, countries, directors, actors, and content trends.
 
